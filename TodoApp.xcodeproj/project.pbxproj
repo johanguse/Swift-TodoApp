@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		99861D2627822E2A00A827DF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		99DD5705277FA27000830F5A /* TextFieldClearButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldClearButton.swift; sourceTree = "<group>"; };
 		99E24507277F82AB004E242F /* TodoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99E2450A277F82AB004E242F /* TodoAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoAppApp.swift; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		99E244FE277F82AB004E242F = {
 			isa = PBXGroup;
 			children = (
+				99861D2627822E2A00A827DF /* README.md */,
 				99E24509277F82AB004E242F /* TodoApp */,
 				99E24508277F82AB004E242F /* Products */,
 			);
