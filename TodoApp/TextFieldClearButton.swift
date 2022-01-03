@@ -5,7 +5,6 @@
 //  Created by Johan Guse on 31/12/21.
 //
 
-import Foundation
 import SwiftUI
 
 struct TextFieldClearButton: ViewModifier {
